@@ -1,0 +1,35 @@
+.thumbnail{
+  width:300px;
+  
+  margin-top: 5px;
+  object-position: top;
+  display:block;
+  
+  object-fit:contain;
+}
+.search-bar{
+  font-size: 30px;
+  display: block;
+  
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+.Video-title{
+  width:300px;
+}
+.video-preview{
+  width:300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+ 
+}
+.youtube{
+  width:300px;
+  margin-top: 5px;
+  object-position: top;
+  display:block;
+}
+
